@@ -31,7 +31,6 @@ int merge(int* nums1, int m, int nums1Size, int* nums2, int n, int nums2Size)
 	}
 }
 		
-			
 
 int main()
 {
@@ -44,4 +43,3 @@ int main()
 	merge(nums1, m, nums1Size, nums2, n, nums2Size);
 	return 0;
 }
-	
