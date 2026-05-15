@@ -2,7 +2,7 @@
 int merge(int* nums1, int m, int nums1Size, int* nums2, int n, int nums2Size)
 {
 	int p1 = m -1;
-	int p2 = n-1;
+	int p2= n-1;
 	int k = m+n-1;
 	while(p1>=0 && p2>=0)
 	{
